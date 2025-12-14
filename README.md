@@ -8,8 +8,8 @@ This project explores:
 - **Phase transitions using the Andersen thermostat**  
 
 This project was carried out as part of the Computational Physics course (Master's 1).    
-The code in this repositorie is not complete in relation to the project presented for the course. It is missing calculations of physical quantities that are important for phase transitions, such as Cv.  
-This is why the report will be published once these elements have been added to the program (no date set).
+> The code in this repositorie is not complete in relation to the project presented for the course. It is missing calculations of physical quantities that are important for phase transitions, such as Cv.  
+> This is why the report will be published once these elements have been added to the program (no date set).
 
 ---
 
@@ -35,6 +35,12 @@ This is why the report will be published once these elements have been added to 
 - Result : ![phase-transition-Temperature.png](phase-transition/phase-transition-Temperature.png)  
 - **Visualization:** [phase-transition.mp4](phase-transition/phase-transition.mp4)  
 - **Code:** [phase-transition.py](phase-transition/phase-transition.py)
+
+---
+
+## Project Report
+
+> report will be published later
 
 ---
 
@@ -95,3 +101,7 @@ Contributions are welcome! You can:
 
 - Open an issue for discussions or questions.
 
+--- 
+
+## References
+- [Félix Rose](https://felix-rose.github.io/fr/)'s course on numerical modeling, *Computational Physics* (Master 1)
